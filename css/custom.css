@@ -7,9 +7,10 @@
 }
 
 .logo {
-	font-weight: 600;
-	color: rgba(77,102,123,1.00);
+	font-weight: 700;
+	color: rgba(77,102,123, 5.00);
 	background-color: black;
+	opacity: 0.5;
 	position: fixed;
 	text-align: center;
 	top: 0;
@@ -20,12 +21,12 @@
 }
 
 .nav {
-	text-align: right;
+	text-align: center;
 }
 
 .nav button {
 	width: 48%;
-	margin: 2px 0;
+	margin: auto;
 }
 
 .button {
